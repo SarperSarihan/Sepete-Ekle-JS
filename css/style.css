@@ -9,7 +9,7 @@ body{
 }
 #sepet{
     height: 400px;
-    width: 350px;
+    width: 600px;
     background-color: whitesmoke;
     border: 1px solid black;
     z-index: 2;
@@ -22,5 +22,5 @@ body{
 }
 
 .aktif{
-    left: -900% !important;
+    left: -1600% !important;
 }
